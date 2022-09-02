@@ -1,1 +1,1 @@
-# Instagram-clone
+# Thentic Api
